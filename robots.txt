@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://pictshare.github.io/street-workout/sitemapx.xml
